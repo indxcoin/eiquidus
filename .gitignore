@@ -1,3 +1,6 @@
+.vscode
+sftp.json
+
 # CSS files generated on startup
 public/css/_theme-selector.scss
 public/css/style.min.css
